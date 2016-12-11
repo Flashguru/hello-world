@@ -1,2 +1,2 @@
 # hello-world
-This is my first time on GitHub
+I just want to say one thing...turtles are fabulous
